@@ -5,7 +5,7 @@
 }
 header {
     background-color: rgb(149, 213, 250);
-    background-image: url('/img/pattern.png');
+    background-image: url(../img/pattern.png);
 }
 main{
     width: 80%;
