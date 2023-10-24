@@ -50,9 +50,12 @@ table {
     background-color: rgb(147, 187, 224);
     color: white;
     }
-    #tr1{
+    #tr1 {
+        background-color: white;
+    }
+    tr {
         width: 30%;
-        background-color: rgb(177, 200, 216);
+        background-color: rgb(178, 187, 194);
     }
     footer{
         background-color: rgb(75, 48, 100);
