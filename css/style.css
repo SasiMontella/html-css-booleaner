@@ -48,8 +48,17 @@ table {
     width: 30%;
     text-align: left;
     background-color: rgb(147, 187, 224);
+    color: white;
     }
     #tr1{
         width: 30%;
         background-color: rgb(177, 200, 216);
+    }
+    footer{
+        background-color: rgb(75, 48, 100);
+        padding: 20px;
+    }
+    #last{
+        text-align: center;
+        color: white;
     }
