@@ -5,12 +5,19 @@
 }
 header {
     background-color: rgb(149, 213, 250);
+    background-image: url('/img/pattern.png');
+}
+main{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 #logo{
     width: 200px;
-    margin-left: 20px;
+    margin-left: 11%;
     margin-top: 30px;
     margin-bottom: 40px;
+    margin-right: 20%;
 }
 #img1{
     margin-left: 20px;
@@ -43,6 +50,7 @@ table {
     width: 100%;
     margin-left: 20px;
     margin-top: 20px;
+    margin-bottom: 20px;
   }
   th {
     width: 30%;
@@ -60,6 +68,7 @@ table {
     footer{
         background-color: rgb(75, 48, 100);
         padding: 20px;
+
     }
     #last{
         text-align: center;
