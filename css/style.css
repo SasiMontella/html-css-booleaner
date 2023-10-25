@@ -6,6 +6,8 @@
 header {
     background-color: rgb(149, 213, 250);
     background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 300px; 
 }
 main{
     width: 80%;
